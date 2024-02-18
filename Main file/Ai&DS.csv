@@ -1,0 +1,582 @@
+Category,Difficulty,Duration,Platform,LearningPace,Rating,Subject,URL
+AI,Intermediate,11,Udemy,Fast,5,AI&DS,https://example.com/course/1
+Data Analytics,Advanced,4,Unacademy,Moderate,2,AI&DS,https://example.com/course/2
+AI,Beginner,10,Unacademy,Fast,1,AI&DS,https://example.com/course/3
+AI,Advanced,8,Coursera,Slow,2,AI&DS,https://example.com/course/4
+NLP,Intermediate,8,Udemy,Moderate,4,AI&DS,https://example.com/course/5
+Data Analytics,Intermediate,12,edX,Fast,3,AI&DS,https://example.com/course/6
+Data Science,Advanced,9,Udemy,Moderate,1,AI&DS,https://example.com/course/7
+Data Science,Advanced,6,Pluralsight,Fast,2,AI&DS,https://example.com/course/8
+Data Analytics,Advanced,5,Unacademy,Moderate,1,AI&DS,https://example.com/course/9
+Data Science,Beginner,7,edX,Slow,5,AI&DS,https://example.com/course/10
+Data Science,Intermediate,3,Pluralsight,Slow,1,AI&DS,https://example.com/course/11
+DSA,Advanced,11,Coursera,Fast,3,AI&DS,https://example.com/course/12
+NLP,Beginner,6,Pluralsight,Fast,4,AI&DS,https://example.com/course/13
+NLP,Intermediate,6,edX,Moderate,2,AI&DS,https://example.com/course/14
+Data Analytics,Beginner,6,Udemy,Slow,3,AI&DS,https://example.com/course/15
+DSA,Advanced,12,Unacademy,Moderate,4,AI&DS,https://example.com/course/16
+AI,Advanced,2,Coursera,Fast,1,AI&DS,https://example.com/course/17
+AI,Intermediate,2,Coursera,Moderate,3,AI&DS,https://example.com/course/18
+ML,Intermediate,10,Udemy,Slow,2,AI&DS,https://example.com/course/19
+DSA,Advanced,9,Unacademy,Moderate,3,AI&DS,https://example.com/course/20
+DSA,Intermediate,10,edX,Slow,1,AI&DS,https://example.com/course/21
+AI,Advanced,11,edX,Moderate,3,AI&DS,https://example.com/course/22
+NLP,Intermediate,3,edX,Moderate,3,AI&DS,https://example.com/course/23
+Data Science,Beginner,5,edX,Slow,3,AI&DS,https://example.com/course/24
+NLP,Advanced,7,edX,Moderate,2,AI&DS,https://example.com/course/25
+Data Analytics,Beginner,3,Pluralsight,Slow,1,AI&DS,https://example.com/course/26
+DSA,Advanced,11,Pluralsight,Slow,3,AI&DS,https://example.com/course/27
+ML,Advanced,5,edX,Moderate,5,AI&DS,https://example.com/course/28
+Data Science,Intermediate,6,Coursera,Fast,2,AI&DS,https://example.com/course/29
+AI,Advanced,2,Coursera,Moderate,2,AI&DS,https://example.com/course/30
+AI,Beginner,4,Udemy,Moderate,1,AI&DS,https://example.com/course/31
+AI,Advanced,7,Unacademy,Moderate,1,AI&DS,https://example.com/course/32
+AI,Beginner,8,Unacademy,Slow,4,AI&DS,https://example.com/course/33
+Data Science,Advanced,4,Unacademy,Slow,3,AI&DS,https://example.com/course/34
+AI,Beginner,1,Udemy,Slow,4,AI&DS,https://example.com/course/35
+Data Analytics,Advanced,2,edX,Moderate,2,AI&DS,https://example.com/course/36
+DSA,Intermediate,11,Udemy,Slow,3,AI&DS,https://example.com/course/37
+Data Science,Intermediate,6,Udemy,Moderate,1,AI&DS,https://example.com/course/38
+DSA,Advanced,8,Coursera,Moderate,3,AI&DS,https://example.com/course/39
+ML,Advanced,10,Pluralsight,Slow,5,AI&DS,https://example.com/course/40
+Data Analytics,Advanced,3,Udemy,Moderate,3,AI&DS,https://example.com/course/41
+DSA,Advanced,3,Unacademy,Moderate,3,AI&DS,https://example.com/course/42
+Data Analytics,Beginner,6,edX,Fast,5,AI&DS,https://example.com/course/43
+NLP,Intermediate,8,Udemy,Slow,1,AI&DS,https://example.com/course/44
+Data Science,Intermediate,1,Udemy,Fast,5,AI&DS,https://example.com/course/45
+NLP,Beginner,8,Unacademy,Fast,3,AI&DS,https://example.com/course/46
+Data Science,Beginner,4,Pluralsight,Slow,4,AI&DS,https://example.com/course/47
+DSA,Intermediate,7,Unacademy,Slow,2,AI&DS,https://example.com/course/48
+Data Science,Advanced,1,Udemy,Fast,4,AI&DS,https://example.com/course/49
+Data Science,Advanced,1,Pluralsight,Fast,4,AI&DS,https://example.com/course/50
+ML,Advanced,7,Coursera,Fast,2,AI&DS,https://example.com/course/51
+Data Analytics,Advanced,11,edX,Moderate,4,AI&DS,https://example.com/course/52
+Data Analytics,Beginner,9,Coursera,Moderate,3,AI&DS,https://example.com/course/53
+Data Science,Advanced,8,Coursera,Fast,5,AI&DS,https://example.com/course/54
+Data Analytics,Intermediate,5,Udemy,Moderate,3,AI&DS,https://example.com/course/55
+NLP,Intermediate,8,edX,Fast,2,AI&DS,https://example.com/course/56
+DSA,Beginner,5,Unacademy,Slow,3,AI&DS,https://example.com/course/57
+NLP,Beginner,9,Unacademy,Fast,3,AI&DS,https://example.com/course/58
+Data Analytics,Advanced,11,Udemy,Fast,2,AI&DS,https://example.com/course/59
+Data Science,Advanced,7,Unacademy,Fast,3,AI&DS,https://example.com/course/60
+Data Science,Advanced,2,Pluralsight,Slow,2,AI&DS,https://example.com/course/61
+Data Analytics,Advanced,1,Udemy,Slow,5,AI&DS,https://example.com/course/62
+DSA,Advanced,6,Coursera,Slow,1,AI&DS,https://example.com/course/63
+Data Analytics,Intermediate,8,Unacademy,Fast,3,AI&DS,https://example.com/course/64
+AI,Beginner,7,edX,Fast,4,AI&DS,https://example.com/course/65
+NLP,Advanced,1,edX,Moderate,1,AI&DS,https://example.com/course/66
+ML,Intermediate,12,Pluralsight,Moderate,3,AI&DS,https://example.com/course/67
+Data Analytics,Intermediate,5,edX,Moderate,4,AI&DS,https://example.com/course/68
+DSA,Beginner,6,Udemy,Moderate,4,AI&DS,https://example.com/course/69
+NLP,Intermediate,5,Unacademy,Slow,5,AI&DS,https://example.com/course/70
+Data Analytics,Advanced,9,Pluralsight,Slow,2,AI&DS,https://example.com/course/71
+ML,Advanced,11,Udemy,Slow,2,AI&DS,https://example.com/course/72
+Data Analytics,Intermediate,12,Coursera,Slow,3,AI&DS,https://example.com/course/73
+NLP,Beginner,5,Coursera,Moderate,2,AI&DS,https://example.com/course/74
+DSA,Beginner,3,Udemy,Fast,1,AI&DS,https://example.com/course/75
+Data Science,Advanced,11,edX,Moderate,2,AI&DS,https://example.com/course/76
+DSA,Advanced,3,Udemy,Slow,5,AI&DS,https://example.com/course/77
+Data Analytics,Advanced,11,Unacademy,Moderate,3,AI&DS,https://example.com/course/78
+DSA,Beginner,8,edX,Slow,5,AI&DS,https://example.com/course/79
+Data Science,Beginner,11,Unacademy,Moderate,4,AI&DS,https://example.com/course/80
+AI,Advanced,5,Coursera,Fast,4,AI&DS,https://example.com/course/81
+Data Analytics,Advanced,1,Unacademy,Fast,4,AI&DS,https://example.com/course/82
+NLP,Advanced,4,Pluralsight,Fast,1,AI&DS,https://example.com/course/83
+DSA,Advanced,7,Coursera,Slow,3,AI&DS,https://example.com/course/84
+Data Science,Advanced,12,Coursera,Moderate,5,AI&DS,https://example.com/course/85
+NLP,Intermediate,2,edX,Slow,4,AI&DS,https://example.com/course/86
+DSA,Advanced,3,Pluralsight,Slow,2,AI&DS,https://example.com/course/87
+AI,Intermediate,7,Udemy,Fast,2,AI&DS,https://example.com/course/88
+Data Science,Beginner,5,Unacademy,Slow,5,AI&DS,https://example.com/course/89
+NLP,Advanced,12,Udemy,Moderate,2,AI&DS,https://example.com/course/90
+DSA,Intermediate,3,Pluralsight,Fast,5,AI&DS,https://example.com/course/91
+NLP,Advanced,1,Unacademy,Slow,4,AI&DS,https://example.com/course/92
+NLP,Beginner,1,edX,Fast,2,AI&DS,https://example.com/course/93
+NLP,Intermediate,6,Coursera,Fast,3,AI&DS,https://example.com/course/94
+NLP,Beginner,8,Pluralsight,Slow,3,AI&DS,https://example.com/course/95
+Data Analytics,Advanced,9,edX,Slow,5,AI&DS,https://example.com/course/96
+DSA,Advanced,1,Udemy,Fast,5,AI&DS,https://example.com/course/97
+Data Science,Advanced,9,Unacademy,Moderate,5,AI&DS,https://example.com/course/98
+Data Analytics,Beginner,1,edX,Fast,3,AI&DS,https://example.com/course/99
+ML,Intermediate,12,edX,Slow,3,AI&DS,https://example.com/course/100
+Data Science,Intermediate,6,Udemy,Moderate,5,AI&DS,https://example.com/course/101
+Data Analytics,Intermediate,5,Unacademy,Fast,4,AI&DS,https://example.com/course/102
+DSA,Intermediate,10,Pluralsight,Slow,1,AI&DS,https://example.com/course/103
+NLP,Advanced,1,Unacademy,Moderate,4,AI&DS,https://example.com/course/104
+Data Analytics,Intermediate,1,Pluralsight,Fast,2,AI&DS,https://example.com/course/105
+Data Analytics,Advanced,1,edX,Slow,4,AI&DS,https://example.com/course/106
+Data Analytics,Intermediate,1,Coursera,Fast,1,AI&DS,https://example.com/course/107
+Data Analytics,Beginner,6,Pluralsight,Moderate,1,AI&DS,https://example.com/course/108
+Data Science,Advanced,6,edX,Slow,1,AI&DS,https://example.com/course/109
+DSA,Beginner,11,Unacademy,Fast,2,AI&DS,https://example.com/course/110
+DSA,Beginner,12,edX,Slow,1,AI&DS,https://example.com/course/111
+AI,Beginner,4,Pluralsight,Slow,2,AI&DS,https://example.com/course/112
+Data Analytics,Beginner,4,Udemy,Slow,1,AI&DS,https://example.com/course/113
+ML,Beginner,5,Udemy,Fast,3,AI&DS,https://example.com/course/114
+Data Science,Beginner,11,Coursera,Fast,3,AI&DS,https://example.com/course/115
+Data Analytics,Intermediate,8,edX,Moderate,5,AI&DS,https://example.com/course/116
+DSA,Intermediate,7,Coursera,Slow,1,AI&DS,https://example.com/course/117
+ML,Intermediate,5,Udemy,Moderate,4,AI&DS,https://example.com/course/118
+ML,Beginner,10,Coursera,Moderate,4,AI&DS,https://example.com/course/119
+ML,Advanced,6,edX,Slow,5,AI&DS,https://example.com/course/120
+Data Analytics,Beginner,12,Udemy,Slow,4,AI&DS,https://example.com/course/121
+DSA,Intermediate,2,edX,Slow,1,AI&DS,https://example.com/course/122
+DSA,Beginner,4,Pluralsight,Fast,2,AI&DS,https://example.com/course/123
+Data Analytics,Beginner,10,Pluralsight,Slow,3,AI&DS,https://example.com/course/124
+Data Science,Intermediate,2,Coursera,Fast,4,AI&DS,https://example.com/course/125
+AI,Intermediate,1,Unacademy,Slow,3,AI&DS,https://example.com/course/126
+Data Science,Beginner,3,Coursera,Slow,3,AI&DS,https://example.com/course/127
+AI,Beginner,1,Pluralsight,Slow,4,AI&DS,https://example.com/course/128
+ML,Beginner,3,Pluralsight,Slow,3,AI&DS,https://example.com/course/129
+AI,Intermediate,3,Udemy,Slow,4,AI&DS,https://example.com/course/130
+NLP,Intermediate,8,Coursera,Moderate,3,AI&DS,https://example.com/course/131
+AI,Advanced,9,Coursera,Fast,2,AI&DS,https://example.com/course/132
+NLP,Intermediate,8,Coursera,Slow,2,AI&DS,https://example.com/course/133
+ML,Beginner,3,Pluralsight,Fast,4,AI&DS,https://example.com/course/134
+AI,Advanced,6,Unacademy,Moderate,5,AI&DS,https://example.com/course/135
+DSA,Advanced,9,Udemy,Slow,5,AI&DS,https://example.com/course/136
+AI,Intermediate,12,Unacademy,Fast,4,AI&DS,https://example.com/course/137
+NLP,Intermediate,8,Unacademy,Moderate,3,AI&DS,https://example.com/course/138
+AI,Advanced,2,Unacademy,Moderate,3,AI&DS,https://example.com/course/139
+Data Analytics,Advanced,8,Udemy,Moderate,3,AI&DS,https://example.com/course/140
+Data Science,Intermediate,7,Coursera,Slow,4,AI&DS,https://example.com/course/141
+DSA,Intermediate,11,Pluralsight,Slow,1,AI&DS,https://example.com/course/142
+AI,Beginner,5,edX,Fast,2,AI&DS,https://example.com/course/143
+Data Analytics,Intermediate,11,Pluralsight,Moderate,4,AI&DS,https://example.com/course/144
+Data Science,Beginner,4,Coursera,Moderate,2,AI&DS,https://example.com/course/145
+ML,Beginner,12,Pluralsight,Slow,1,AI&DS,https://example.com/course/146
+NLP,Beginner,7,Unacademy,Moderate,2,AI&DS,https://example.com/course/147
+Data Science,Intermediate,1,edX,Moderate,5,AI&DS,https://example.com/course/148
+Data Science,Intermediate,9,Pluralsight,Slow,1,AI&DS,https://example.com/course/149
+DSA,Beginner,4,edX,Slow,5,AI&DS,https://example.com/course/150
+Data Analytics,Advanced,6,Pluralsight,Fast,5,AI&DS,https://example.com/course/151
+DSA,Intermediate,8,Coursera,Fast,3,AI&DS,https://example.com/course/152
+AI,Advanced,5,Udemy,Moderate,4,AI&DS,https://example.com/course/153
+Data Science,Advanced,10,Unacademy,Fast,1,AI&DS,https://example.com/course/154
+Data Analytics,Advanced,7,Udemy,Slow,1,AI&DS,https://example.com/course/155
+DSA,Advanced,12,Pluralsight,Fast,1,AI&DS,https://example.com/course/156
+Data Analytics,Beginner,4,Coursera,Moderate,3,AI&DS,https://example.com/course/157
+Data Analytics,Advanced,11,Unacademy,Moderate,1,AI&DS,https://example.com/course/158
+DSA,Beginner,10,Pluralsight,Slow,5,AI&DS,https://example.com/course/159
+ML,Advanced,9,edX,Moderate,5,AI&DS,https://example.com/course/160
+ML,Beginner,11,Coursera,Slow,4,AI&DS,https://example.com/course/161
+Data Science,Beginner,3,Udemy,Moderate,5,AI&DS,https://example.com/course/162
+Data Science,Beginner,4,Unacademy,Fast,3,AI&DS,https://example.com/course/163
+Data Analytics,Intermediate,5,Coursera,Slow,5,AI&DS,https://example.com/course/164
+NLP,Intermediate,4,Pluralsight,Slow,3,AI&DS,https://example.com/course/165
+Data Analytics,Intermediate,11,edX,Fast,4,AI&DS,https://example.com/course/166
+NLP,Intermediate,4,Coursera,Fast,3,AI&DS,https://example.com/course/167
+AI,Beginner,6,Coursera,Slow,1,AI&DS,https://example.com/course/168
+Data Analytics,Beginner,4,Unacademy,Fast,5,AI&DS,https://example.com/course/169
+Data Science,Beginner,3,Unacademy,Slow,3,AI&DS,https://example.com/course/170
+ML,Beginner,11,edX,Moderate,5,AI&DS,https://example.com/course/171
+DSA,Advanced,8,Coursera,Slow,1,AI&DS,https://example.com/course/172
+Data Science,Beginner,9,Unacademy,Slow,4,AI&DS,https://example.com/course/173
+Data Science,Intermediate,2,Pluralsight,Fast,4,AI&DS,https://example.com/course/174
+Data Science,Advanced,8,Pluralsight,Fast,2,AI&DS,https://example.com/course/175
+Data Science,Advanced,10,Udemy,Fast,4,AI&DS,https://example.com/course/176
+DSA,Intermediate,8,Udemy,Moderate,5,AI&DS,https://example.com/course/177
+DSA,Intermediate,9,edX,Moderate,2,AI&DS,https://example.com/course/178
+Data Science,Beginner,7,Coursera,Fast,3,AI&DS,https://example.com/course/179
+AI,Intermediate,4,Pluralsight,Slow,5,AI&DS,https://example.com/course/180
+Data Analytics,Intermediate,1,edX,Slow,3,AI&DS,https://example.com/course/181
+NLP,Intermediate,5,Coursera,Fast,4,AI&DS,https://example.com/course/182
+AI,Intermediate,3,Udemy,Moderate,5,AI&DS,https://example.com/course/183
+AI,Advanced,12,Udemy,Fast,3,AI&DS,https://example.com/course/184
+Data Analytics,Intermediate,2,Pluralsight,Moderate,3,AI&DS,https://example.com/course/185
+ML,Intermediate,12,Pluralsight,Fast,5,AI&DS,https://example.com/course/186
+Data Science,Advanced,4,Pluralsight,Moderate,5,AI&DS,https://example.com/course/187
+ML,Intermediate,7,Udemy,Moderate,2,AI&DS,https://example.com/course/188
+NLP,Intermediate,8,Unacademy,Slow,1,AI&DS,https://example.com/course/189
+AI,Advanced,7,Udemy,Fast,4,AI&DS,https://example.com/course/190
+Data Science,Intermediate,10,Pluralsight,Moderate,2,AI&DS,https://example.com/course/191
+ML,Beginner,7,edX,Slow,2,AI&DS,https://example.com/course/192
+Data Science,Advanced,9,Unacademy,Moderate,2,AI&DS,https://example.com/course/193
+Data Science,Beginner,7,Udemy,Fast,3,AI&DS,https://example.com/course/194
+AI,Advanced,10,Udemy,Moderate,4,AI&DS,https://example.com/course/195
+Data Analytics,Advanced,4,Udemy,Slow,1,AI&DS,https://example.com/course/196
+AI,Beginner,5,Pluralsight,Slow,1,AI&DS,https://example.com/course/197
+Data Analytics,Intermediate,7,Pluralsight,Fast,3,AI&DS,https://example.com/course/198
+AI,Advanced,5,Udemy,Fast,5,AI&DS,https://example.com/course/199
+DSA,Intermediate,8,Unacademy,Fast,5,AI&DS,https://example.com/course/200
+Operating Systems,Beginner,12,Udemy,Moderate,2,CS,https://example.com/course/1
+Microprocessor Systems,Beginner,10,Pluralsight,Moderate,2,CS,https://example.com/course/2
+DSA,Advanced,6,Unacademy,Slow,3,CS,https://example.com/course/3
+Digital Logic Design,Advanced,12,Udemy,Fast,1,CS,https://example.com/course/4
+ML,Advanced,7,edX,Moderate,3,CS,https://example.com/course/5
+Digital Logic Design,Beginner,3,edX,Moderate,2,CS,https://example.com/course/6
+Microprocessor Systems,Advanced,11,Pluralsight,Moderate,3,CS,https://example.com/course/7
+Digital Logic Design,Beginner,3,Udemy,Fast,5,CS,https://example.com/course/8
+Operating Systems,Advanced,5,Pluralsight,Fast,5,CS,https://example.com/course/9
+DSA,Intermediate,5,Udemy,Slow,3,CS,https://example.com/course/10
+ML,Beginner,12,Pluralsight,Slow,2,CS,https://example.com/course/11
+DSA,Advanced,11,Unacademy,Slow,4,CS,https://example.com/course/12
+Microprocessor Systems,Intermediate,2,Pluralsight,Fast,2,CS,https://example.com/course/13
+Microprocessor Systems,Beginner,5,Udemy,Moderate,4,CS,https://example.com/course/14
+ML,Intermediate,8,Coursera,Moderate,5,CS,https://example.com/course/15
+Data Analytics,Beginner,6,Coursera,Moderate,3,CS,https://example.com/course/16
+DSA,Intermediate,8,edX,Fast,2,CS,https://example.com/course/17
+Data Analytics,Beginner,7,Unacademy,Moderate,3,CS,https://example.com/course/27
+Microprocessor Systems,Beginner,12,Unacademy,Slow,2,CS,https://example.com/course/28
+ML,Advanced,11,Coursera,Fast,3,CS,https://example.com/course/29
+Microprocessor Systems,Intermediate,8,edX,Moderate,3,CS,https://example.com/course/30
+ML,Advanced,8,edX,Moderate,2,CS,https://example.com/course/31
+DSA,Advanced,11,edX,Fast,3,CS,https://example.com/course/32
+Digital Logic Design,Beginner,11,edX,Moderate,1,CS,https://example.com/course/33
+Microprocessor Systems,Beginner,12,edX,Fast,1,CS,https://example.com/course/34
+DSA,Beginner,1,Pluralsight,Moderate,3,CS,https://example.com/course/35
+Operating Systems,Intermediate,4,Pluralsight,Fast,5,CS,https://example.com/course/36
+ML,Intermediate,9,Pluralsight,Moderate,2,CS,https://example.com/course/37
+DSA,Beginner,1,edX,Moderate,4,CS,https://example.com/course/38
+Operating Systems,Advanced,5,edX,Moderate,2,CS,https://example.com/course/39
+ML,Advanced,5,Unacademy,Slow,1,CS,https://example.com/course/40
+ML,Advanced,2,Unacademy,Fast,1,CS,https://example.com/course/41
+ML,Intermediate,10,Udemy,Fast,3,CS,https://example.com/course/42
+Microprocessor Systems,Advanced,1,Udemy,Moderate,2,CS,https://example.com/course/43
+Data Analytics,Intermediate,5,edX,Moderate,5,CS,https://example.com/course/44
+Digital Logic Design,Advanced,4,edX,Moderate,2,CS,https://example.com/course/45
+ML,Advanced,5,edX,Slow,5,CS,https://example.com/course/46
+Data Analytics,Intermediate,9,Coursera,Fast,3,CS,https://example.com/course/47
+Microprocessor Systems,Advanced,5,Coursera,Fast,5,CS,https://example.com/course/48
+Data Analytics,Beginner,5,Pluralsight,Fast,2,CS,https://example.com/course/49
+DSA,Beginner,9,edX,Moderate,3,CS,https://example.com/course/50
+Operating Systems,Intermediate,3,Pluralsight,Slow,5,CS,https://example.com/course/51
+Data Analytics,Beginner,12,Udemy,Slow,1,CS,https://example.com/course/52
+Data Analytics,Advanced,9,Coursera,Slow,2,CS,https://example.com/course/53
+Data Analytics,Intermediate,5,Coursera,Fast,4,CS,https://example.com/course/54
+Microprocessor Systems,Beginner,9,Coursera,Fast,4,CS,https://example.com/course/55
+Digital Logic Design,Intermediate,8,Unacademy,Slow,1,CS,https://example.com/course/56
+Operating Systems,Beginner,11,Udemy,Moderate,1,CS,https://example.com/course/57
+ML,Intermediate,3,Pluralsight,Slow,1,CS,https://example.com/course/58
+ML,Intermediate,7,Coursera,Moderate,1,CS,https://example.com/course/59
+Data Analytics,Intermediate,7,edX,Moderate,5,CS,https://example.com/course/60
+Digital Logic Design,Intermediate,1,Udemy,Fast,5,CS,https://example.com/course/61
+Data Analytics,Advanced,8,Coursera,Slow,3,CS,https://example.com/course/62
+Digital Logic Design,Advanced,8,edX,Fast,1,CS,https://example.com/course/63
+Data Analytics,Advanced,9,edX,Slow,5,CS,https://example.com/course/64
+DSA,Beginner,6,Unacademy,Moderate,4,CS,https://example.com/course/65
+Data Analytics,Advanced,3,edX,Fast,4,CS,https://example.com/course/66
+Data Analytics,Intermediate,5,Udemy,Moderate,1,CS,https://example.com/course/67
+ML,Advanced,4,Udemy,Slow,4,CS,https://example.com/course/68
+Microprocessor Systems,Advanced,10,Unacademy,Moderate,4,CS,https://example.com/course/69
+ML,Advanced,9,Unacademy,Fast,4,CS,https://example.com/course/70
+DSA,Advanced,11,Pluralsight,Fast,1,CS,https://example.com/course/71
+ML,Intermediate,12,Unacademy,Slow,2,CS,https://example.com/course/72
+DSA,Advanced,5,Udemy,Slow,3,CS,https://example.com/course/73
+Operating Systems,Intermediate,8,Udemy,Moderate,5,CS,https://example.com/course/74
+Digital Logic Design,Advanced,8,Coursera,Moderate,4,CS,https://example.com/course/75
+ML,Intermediate,8,Udemy,Slow,3,CS,https://example.com/course/76
+ML,Intermediate,2,Udemy,Moderate,2,CS,https://example.com/course/77
+Operating Systems,Intermediate,3,Unacademy,Moderate,1,CS,https://example.com/course/78
+Data Analytics,Intermediate,3,edX,Slow,4,CS,https://example.com/course/79
+Data Analytics,Beginner,9,Unacademy,Slow,3,CS,https://example.com/course/80
+Operating Systems,Intermediate,9,Unacademy,Moderate,1,CS,https://example.com/course/81
+Digital Logic Design,Beginner,6,edX,Moderate,1,CS,https://example.com/course/82
+ML,Beginner,12,edX,Slow,4,CS,https://example.com/course/83
+Digital Logic Design,Intermediate,2,Coursera,Moderate,2,CS,https://example.com/course/84
+Data Analytics,Intermediate,5,edX,Fast,2,CS,https://example.com/course/85
+ML,Beginner,12,edX,Slow,5,CS,https://example.com/course/86
+Digital Logic Design,Advanced,10,Udemy,Slow,4,CS,https://example.com/course/87
+DSA,Beginner,10,Unacademy,Fast,4,CS,https://example.com/course/88
+Digital Logic Design,Intermediate,7,Udemy,Slow,1,CS,https://example.com/course/89
+Digital Logic Design,Intermediate,3,Coursera,Fast,5,CS,https://example.com/course/90
+Data Analytics,Intermediate,7,Coursera,Slow,5,CS,https://example.com/course/91
+ML,Advanced,10,Udemy,Fast,3,CS,https://example.com/course/92
+Data Analytics,Intermediate,6,edX,Slow,3,CS,https://example.com/course/93
+Microprocessor Systems,Beginner,2,Coursera,Fast,3,CS,https://example.com/course/94
+Microprocessor Systems,Beginner,2,Unacademy,Moderate,2,CS,https://example.com/course/95
+ML,Beginner,12,Udemy,Moderate,5,CS,https://example.com/course/96
+Data Analytics,Intermediate,9,Pluralsight,Slow,1,CS,https://example.com/course/97
+Microprocessor Systems,Beginner,11,Udemy,Slow,2,CS,https://example.com/course/98
+DSA,Intermediate,9,Udemy,Fast,5,CS,https://example.com/course/99
+Operating Systems,Beginner,6,Unacademy,Fast,4,CS,https://example.com/course/100
+Data Analytics,Beginner,8,edX,Slow,4,CS,https://example.com/course/101
+Data Analytics,Advanced,5,Pluralsight,Slow,5,CS,https://example.com/course/102
+Data Analytics,Intermediate,2,Unacademy,Slow,2,CS,https://example.com/course/103
+Data Analytics,Beginner,1,edX,Slow,1,CS,https://example.com/course/104
+Digital Logic Design,Intermediate,1,Coursera,Fast,5,CS,https://example.com/course/105
+DSA,Intermediate,8,Udemy,Fast,5,CS,https://example.com/course/106
+Data Analytics,Beginner,10,Unacademy,Slow,4,CS,https://example.com/course/107
+ML,Advanced,8,Unacademy,Moderate,3,CS,https://example.com/course/108
+DSA,Intermediate,6,Pluralsight,Slow,1,CS,https://example.com/course/109
+ML,Beginner,3,Udemy,Slow,4,CS,https://example.com/course/110
+Operating Systems,Beginner,4,Coursera,Moderate,2,CS,https://example.com/course/111
+Operating Systems,Beginner,3,Unacademy,Fast,4,CS,https://example.com/course/112
+Operating Systems,Advanced,8,Coursera,Slow,2,CS,https://example.com/course/113
+Microprocessor Systems,Advanced,11,Udemy,Moderate,5,CS,https://example.com/course/114
+DSA,Beginner,6,edX,Fast,4,CS,https://example.com/course/115
+Microprocessor Systems,Advanced,10,Udemy,Slow,2,CS,https://example.com/course/116
+ML,Beginner,8,Coursera,Slow,1,CS,https://example.com/course/117
+ML,Intermediate,11,Coursera,Slow,1,CS,https://example.com/course/118
+Digital Logic Design,Intermediate,10,Udemy,Moderate,1,CS,https://example.com/course/119
+ML,Intermediate,10,Unacademy,Fast,4,CS,https://example.com/course/120
+Digital Logic Design,Intermediate,1,Pluralsight,Slow,2,CS,https://example.com/course/121
+DSA,Intermediate,8,Pluralsight,Slow,4,CS,https://example.com/course/122
+Microprocessor Systems,Beginner,8,Coursera,Slow,1,CS,https://example.com/course/123
+Microprocessor Systems,Advanced,1,Unacademy,Slow,1,CS,https://example.com/course/124
+Digital Logic Design,Beginner,10,Udemy,Fast,3,CS,https://example.com/course/125
+Digital Logic Design,Beginner,4,Pluralsight,Fast,2,CS,https://example.com/course/126
+Operating Systems,Advanced,9,Coursera,Slow,2,CS,https://example.com/course/127
+Operating Systems,Beginner,3,Coursera,Moderate,1,CS,https://example.com/course/128
+Digital Logic Design,Advanced,3,Coursera,Moderate,1,CS,https://example.com/course/129
+DSA,Advanced,6,Coursera,Moderate,3,CS,https://example.com/course/130
+Microprocessor Systems,Advanced,3,Pluralsight,Slow,3,CS,https://example.com/course/131
+Microprocessor Systems,Beginner,1,Pluralsight,Slow,1,CS,https://example.com/course/132
+Microprocessor Systems,Beginner,7,Unacademy,Fast,1,CS,https://example.com/course/133
+Operating Systems,Beginner,9,Udemy,Slow,1,CS,https://example.com/course/134
+Microprocessor Systems,Advanced,1,Pluralsight,Slow,2,CS,https://example.com/course/135
+ML,Intermediate,2,Pluralsight,Moderate,2,CS,https://example.com/course/136
+DSA,Advanced,4,Udemy,Moderate,1,CS,https://example.com/course/137
+Data Analytics,Intermediate,3,edX,Fast,1,CS,https://example.com/course/138
+Digital Logic Design,Intermediate,3,edX,Slow,5,CS,https://example.com/course/139
+ML,Beginner,3,Unacademy,Moderate,2,CS,https://example.com/course/140
+Microprocessor Systems,Beginner,9,Unacademy,Slow,1,CS,https://example.com/course/141
+ML,Beginner,1,Unacademy,Slow,5,CS,https://example.com/course/142
+Operating Systems,Beginner,3,Pluralsight,Moderate,5,CS,https://example.com/course/143
+Digital Logic Design,Beginner,2,Coursera,Fast,5,CS,https://example.com/course/144
+Data Analytics,Beginner,8,Pluralsight,Moderate,1,CS,https://example.com/course/145
+Operating Systems,Advanced,7,Pluralsight,Moderate,2,CS,https://example.com/course/146
+Microprocessor Systems,Advanced,4,Coursera,Fast,3,CS,https://example.com/course/147
+ML,Beginner,4,Unacademy,Fast,4,CS,https://example.com/course/148
+Digital Logic Design,Advanced,7,edX,Fast,3,CS,https://example.com/course/149
+DSA,Intermediate,5,Udemy,Moderate,2,CS,https://example.com/course/150
+DSA,Intermediate,1,Udemy,Fast,5,CS,https://example.com/course/151
+ML,Advanced,2,edX,Fast,4,CS,https://example.com/course/152
+Operating Systems,Intermediate,10,Pluralsight,Slow,3,CS,https://example.com/course/153
+ML,Intermediate,12,Coursera,Slow,3,CS,https://example.com/course/154
+Operating Systems,Advanced,8,edX,Slow,1,CS,https://example.com/course/155
+Microprocessor Systems,Advanced,11,Udemy,Slow,3,CS,https://example.com/course/156
+Operating Systems,Intermediate,9,Pluralsight,Fast,1,CS,https://example.com/course/157
+Digital Logic Design,Intermediate,5,Coursera,Fast,1,CS,https://example.com/course/158
+ML,Advanced,11,Udemy,Fast,4,CS,https://example.com/course/159
+Digital Logic Design,Beginner,5,Coursera,Moderate,3,CS,https://example.com/course/160
+Data Analytics,Beginner,12,Udemy,Fast,4,CS,https://example.com/course/161
+Data Analytics,Intermediate,9,Pluralsight,Fast,1,CS,https://example.com/course/162
+ML,Advanced,4,Unacademy,Fast,2,CS,https://example.com/course/163
+Operating Systems,Intermediate,2,Coursera,Fast,1,CS,https://example.com/course/164
+Operating Systems,Advanced,7,Udemy,Fast,2,CS,https://example.com/course/165
+DSA,Beginner,6,edX,Fast,5,CS,https://example.com/course/166
+Microprocessor Systems,Intermediate,9,Unacademy,Moderate,3,CS,https://example.com/course/167
+Microprocessor Systems,Advanced,11,Pluralsight,Fast,5,CS,https://example.com/course/168
+DSA,Beginner,10,Pluralsight,Moderate,1,CS,https://example.com/course/169
+Microprocessor Systems,Advanced,2,Udemy,Slow,4,CS,https://example.com/course/170
+Digital Logic Design,Advanced,1,Coursera,Fast,4,CS,https://example.com/course/171
+Digital Logic Design,Advanced,4,edX,Fast,5,CS,https://example.com/course/172
+Microprocessor Systems,Beginner,9,Pluralsight,Slow,5,CS,https://example.com/course/173
+Microprocessor Systems,Intermediate,4,Coursera,Fast,3,CS,https://example.com/course/174
+Microprocessor Systems,Beginner,3,Coursera,Moderate,4,CS,https://example.com/course/175
+Data Analytics,Advanced,6,Coursera,Fast,5,CS,https://example.com/course/176
+Data Analytics,Advanced,11,edX,Moderate,2,CS,https://example.com/course/177
+DSA,Beginner,11,Pluralsight,Slow,3,CS,https://example.com/course/178
+ML,Advanced,4,Unacademy,Slow,1,CS,https://example.com/course/179
+Digital Logic Design,Advanced,12,Pluralsight,Moderate,5,CS,https://example.com/course/180
+DSA,Beginner,1,Udemy,Slow,2,CS,https://example.com/course/181
+DSA,Beginner,5,Coursera,Fast,2,CS,https://example.com/course/182
+ML,Intermediate,6,edX,Fast,5,CS,https://example.com/course/183
+Data Analytics,Intermediate,3,Coursera,Slow,4,CS,https://example.com/course/184
+Microprocessor Systems,Advanced,8,Coursera,Slow,1,CS,https://example.com/course/185
+ML,Advanced,8,Coursera,Fast,4,CS,https://example.com/course/186
+Data Analytics,Beginner,12,Coursera,Fast,4,CS,https://example.com/course/187
+Digital Logic Design,Intermediate,2,Udemy,Moderate,2,CS,https://example.com/course/188
+Data Analytics,Intermediate,8,Pluralsight,Slow,5,CS,https://example.com/course/189
+Microprocessor Systems,Beginner,3,Coursera,Slow,5,CS,https://example.com/course/190
+Digital Logic Design,Beginner,7,Unacademy,Moderate,5,CS,https://example.com/course/191
+Digital Logic Design,Advanced,5,Pluralsight,Moderate,1,CS,https://example.com/course/192
+Digital Logic Design,Advanced,4,Unacademy,Moderate,1,CS,https://example.com/course/193
+Data Analytics,Advanced,12,Coursera,Fast,1,CS,https://example.com/course/194
+DSA,Intermediate,7,Unacademy,Moderate,3,CS,https://example.com/course/195
+Microprocessor Systems,Advanced,3,Coursera,Slow,1,CS,https://example.com/course/196
+Microprocessor Systems,Intermediate,8,Pluralsight,Fast,4,CS,https://example.com/course/197
+Data Analytics,Advanced,12,edX,Moderate,4,CS,https://example.com/course/198
+Digital Logic Design,Intermediate,1,Pluralsight,Slow,4,CS,https://example.com/course/199
+Digital Logic Design,Intermediate,11,Coursera,Slow,2,CS,https://example.com/course/200
+DSA,Intermediate,1,edX,Fast,2,IT,https://example.com/course/1
+Data Analytics,Beginner,8,Coursera,Fast,1,IT,https://example.com/course/2
+Digital Logic Design,Beginner,10,Udemy,Fast,3,IT,https://example.com/course/3
+Microprocessor Systems,Advanced,2,Unacademy,Moderate,2,IT,https://example.com/course/4
+Data Analytics,Beginner,7,Unacademy,Moderate,2,IT,https://example.com/course/5
+Operating Systems,Intermediate,5,edX,Slow,4,IT,https://example.com/course/6
+Digital Logic Design,Intermediate,1,Unacademy,Moderate,5,IT,https://example.com/course/7
+ML,Intermediate,1,Pluralsight,Slow,5,IT,https://example.com/course/8
+Computer networks,Advanced,12,Pluralsight,Fast,3,IT,https://example.com/course/9
+Cloud computing,Beginner,4,Coursera,Fast,1,IT,https://example.com/course/10
+Cloud computing,Beginner,3,Pluralsight,Fast,1,IT,https://example.com/course/11
+DSA,Advanced,8,Coursera,Moderate,1,IT,https://example.com/course/12
+Software engineering,Beginner,1,Pluralsight,Slow,5,IT,https://example.com/course/13
+Cloud computing,Beginner,7,Udemy,Fast,4,IT,https://example.com/course/14
+Computer networks,Beginner,6,Pluralsight,Moderate,3,IT,https://example.com/course/15
+DSA,Advanced,7,Coursera,Slow,1,IT,https://example.com/course/16
+Cloud computing,Beginner,4,edX,Slow,3,IT,https://example.com/course/17
+DSA,Beginner,11,edX,Fast,5,IT,https://example.com/course/18
+DSA,Beginner,7,edX,Slow,4,IT,https://example.com/course/19
+Data science,Beginner,8,edX,Fast,4,IT,https://example.com/course/20
+Microprocessor Systems,Intermediate,9,Pluralsight,Fast,3,IT,https://example.com/course/21
+Data science,Intermediate,1,Unacademy,Slow,4,IT,https://example.com/course/22
+Software engineering,Intermediate,4,edX,Fast,1,IT,https://example.com/course/23
+Computer networks,Advanced,2,edX,Fast,1,IT,https://example.com/course/24
+Software engineering,Advanced,6,Udemy,Moderate,2,IT,https://example.com/course/25
+Computer networks,Advanced,10,Coursera,Slow,2,IT,https://example.com/course/26
+Cloud computing,Beginner,3,edX,Slow,3,IT,https://example.com/course/27
+Cloud computing,Advanced,9,Unacademy,Moderate,1,IT,https://example.com/course/28
+DSA,Intermediate,10,Udemy,Moderate,3,IT,https://example.com/course/29
+Data science,Beginner,9,Coursera,Fast,2,IT,https://example.com/course/30
+Data science,Advanced,5,Unacademy,Fast,4,IT,https://example.com/course/31
+Software engineering,Intermediate,10,Coursera,Fast,2,IT,https://example.com/course/32
+Computer networks,Beginner,11,Udemy,Fast,2,IT,https://example.com/course/33
+Microprocessor Systems,Intermediate,9,Udemy,Moderate,1,IT,https://example.com/course/34
+Computer networks,Intermediate,8,Udemy,Slow,1,IT,https://example.com/course/35
+Data science,Beginner,10,Unacademy,Moderate,5,IT,https://example.com/course/36
+Software engineering,Advanced,5,edX,Moderate,2,IT,https://example.com/course/37
+Computer networks,Beginner,12,Pluralsight,Slow,2,IT,https://example.com/course/38
+Microprocessor Systems,Advanced,12,Coursera,Slow,1,IT,https://example.com/course/39
+Software engineering,Intermediate,11,Coursera,Moderate,4,IT,https://example.com/course/40
+Computer networks,Advanced,10,Udemy,Slow,1,IT,https://example.com/course/41
+Cloud computing,Advanced,4,Pluralsight,Slow,2,IT,https://example.com/course/42
+Computer networks,Beginner,9,Pluralsight,Fast,5,IT,https://example.com/course/43
+Microprocessor Systems,Intermediate,10,Pluralsight,Fast,4,IT,https://example.com/course/44
+DSA,Beginner,9,Pluralsight,Fast,3,IT,https://example.com/course/45
+Software engineering,Beginner,10,edX,Moderate,5,IT,https://example.com/course/46
+DSA,Advanced,9,Unacademy,Fast,4,IT,https://example.com/course/47
+DSA,Beginner,1,Pluralsight,Fast,1,IT,https://example.com/course/48
+Computer networks,Advanced,12,Coursera,Slow,5,IT,https://example.com/course/49
+Cloud computing,Intermediate,3,Coursera,Fast,2,IT,https://example.com/course/50
+Cloud computing,Intermediate,7,Unacademy,Moderate,2,IT,https://example.com/course/51
+Cloud computing,Advanced,6,Unacademy,Moderate,4,IT,https://example.com/course/52
+DSA,Beginner,11,Pluralsight,Fast,2,IT,https://example.com/course/53
+Microprocessor Systems,Advanced,5,Unacademy,Slow,4,IT,https://example.com/course/54
+Cloud computing,Intermediate,9,edX,Slow,4,IT,https://example.com/course/55
+Data science,Advanced,5,Unacademy,Moderate,2,IT,https://example.com/course/56
+Software engineering,Beginner,1,Unacademy,Fast,3,IT,https://example.com/course/57
+Data science,Beginner,12,Coursera,Slow,2,IT,https://example.com/course/58
+Computer networks,Beginner,5,edX,Fast,3,IT,https://example.com/course/59
+DSA,Advanced,6,Udemy,Moderate,3,IT,https://example.com/course/60
+DSA,Advanced,11,Pluralsight,Fast,2,IT,https://example.com/course/61
+Software engineering,Advanced,11,Unacademy,Fast,5,IT,https://example.com/course/62
+Cloud computing,Intermediate,1,Udemy,Fast,5,IT,https://example.com/course/63
+Microprocessor Systems,Advanced,3,Pluralsight,Moderate,1,IT,https://example.com/course/64
+Microprocessor Systems,Advanced,4,Pluralsight,Slow,4,IT,https://example.com/course/65
+DSA,Beginner,12,Unacademy,Slow,2,IT,https://example.com/course/66
+Software engineering,Advanced,4,edX,Moderate,1,IT,https://example.com/course/67
+Software engineering,Advanced,2,Udemy,Fast,2,IT,https://example.com/course/68
+DSA,Beginner,3,Pluralsight,Slow,5,IT,https://example.com/course/69
+Data science,Advanced,8,Unacademy,Fast,2,IT,https://example.com/course/70
+Microprocessor Systems,Beginner,9,Udemy,Moderate,4,IT,https://example.com/course/71
+DSA,Intermediate,2,Coursera,Slow,4,IT,https://example.com/course/72
+Microprocessor Systems,Advanced,7,Unacademy,Slow,4,IT,https://example.com/course/73
+Microprocessor Systems,Advanced,4,Udemy,Fast,1,IT,https://example.com/course/74
+Computer networks,Intermediate,11,Pluralsight,Moderate,4,IT,https://example.com/course/75
+Data science,Beginner,4,edX,Moderate,2,IT,https://example.com/course/76
+Data science,Beginner,12,Coursera,Fast,1,IT,https://example.com/course/77
+Software engineering,Intermediate,4,Coursera,Fast,5,IT,https://example.com/course/78
+Microprocessor Systems,Intermediate,12,edX,Slow,3,IT,https://example.com/course/79
+Software engineering,Beginner,8,edX,Fast,5,IT,https://example.com/course/80
+Microprocessor Systems,Intermediate,3,Coursera,Slow,4,IT,https://example.com/course/81
+Computer networks,Advanced,2,Pluralsight,Moderate,2,IT,https://example.com/course/82
+Computer networks,Intermediate,10,Coursera,Moderate,2,IT,https://example.com/course/83
+DSA,Advanced,9,Unacademy,Fast,2,IT,https://example.com/course/84
+Computer networks,Intermediate,8,edX,Moderate,1,IT,https://example.com/course/85
+Microprocessor Systems,Beginner,4,Pluralsight,Fast,1,IT,https://example.com/course/86
+Computer networks,Advanced,5,Udemy,Fast,5,IT,https://example.com/course/87
+Computer networks,Intermediate,8,Coursera,Moderate,3,IT,https://example.com/course/88
+DSA,Beginner,5,edX,Fast,1,IT,https://example.com/course/89
+Data science,Intermediate,6,Coursera,Slow,4,IT,https://example.com/course/90
+Microprocessor Systems,Intermediate,8,Pluralsight,Slow,4,IT,https://example.com/course/91
+Software engineering,Advanced,8,Pluralsight,Slow,5,IT,https://example.com/course/92
+Computer networks,Beginner,11,Coursera,Fast,2,IT,https://example.com/course/93
+Data science,Intermediate,2,Udemy,Moderate,1,IT,https://example.com/course/94
+DSA,Advanced,9,Udemy,Moderate,4,IT,https://example.com/course/95
+Microprocessor Systems,Advanced,6,Udemy,Slow,5,IT,https://example.com/course/96
+Microprocessor Systems,Beginner,9,Coursera,Fast,1,IT,https://example.com/course/97
+Microprocessor Systems,Beginner,11,Coursera,Fast,1,IT,https://example.com/course/98
+DSA,Beginner,2,Pluralsight,Fast,3,IT,https://example.com/course/99
+Microprocessor Systems,Intermediate,10,Unacademy,Fast,4,IT,https://example.com/course/100
+Microprocessor Systems,Beginner,5,Pluralsight,Slow,5,IT,https://example.com/course/101
+Data science,Beginner,4,Coursera,Moderate,1,IT,https://example.com/course/102
+Software engineering,Advanced,4,Coursera,Fast,2,IT,https://example.com/course/103
+Cloud computing,Intermediate,4,Udemy,Fast,5,IT,https://example.com/course/104
+Software engineering,Beginner,6,Udemy,Slow,2,IT,https://example.com/course/105
+Software engineering,Beginner,9,Udemy,Moderate,4,IT,https://example.com/course/106
+Microprocessor Systems,Intermediate,8,Unacademy,Fast,1,IT,https://example.com/course/107
+Microprocessor Systems,Beginner,10,edX,Slow,1,IT,https://example.com/course/108
+Software engineering,Beginner,11,Coursera,Moderate,2,IT,https://example.com/course/109
+Data science,Beginner,6,edX,Fast,4,IT,https://example.com/course/110
+Cloud computing,Advanced,9,Pluralsight,Slow,5,IT,https://example.com/course/111
+Microprocessor Systems,Intermediate,6,Udemy,Slow,1,IT,https://example.com/course/112
+Computer networks,Advanced,11,Unacademy,Slow,2,IT,https://example.com/course/113
+Computer networks,Beginner,3,Pluralsight,Slow,4,IT,https://example.com/course/114
+Computer networks,Advanced,4,Coursera,Slow,5,IT,https://example.com/course/115
+DSA,Advanced,1,Pluralsight,Fast,4,IT,https://example.com/course/116
+DSA,Advanced,1,Udemy,Fast,3,IT,https://example.com/course/117
+Data science,Beginner,9,Udemy,Moderate,1,IT,https://example.com/course/118
+DSA,Intermediate,5,Udemy,Fast,1,IT,https://example.com/course/119
+Cloud computing,Intermediate,3,Pluralsight,Fast,3,IT,https://example.com/course/120
+DSA,Intermediate,8,Udemy,Slow,3,IT,https://example.com/course/121
+Computer networks,Advanced,9,Coursera,Slow,3,IT,https://example.com/course/122
+Cloud computing,Advanced,8,Udemy,Slow,1,IT,https://example.com/course/123
+DSA,Advanced,5,Pluralsight,Moderate,4,IT,https://example.com/course/124
+Data science,Beginner,1,edX,Slow,4,IT,https://example.com/course/125
+Cloud computing,Beginner,8,edX,Moderate,5,IT,https://example.com/course/135
+Microprocessor Systems,Intermediate,12,Unacademy,Moderate,1,IT,https://example.com/course/136
+Cloud computing,Beginner,4,Coursera,Moderate,1,IT,https://example.com/course/137
+Computer networks,Intermediate,5,Coursera,Slow,5,IT,https://example.com/course/138
+Cloud computing,Intermediate,12,Udemy,Moderate,2,IT,https://example.com/course/139
+Software engineering,Advanced,2,Coursera,Fast,4,IT,https://example.com/course/140
+Cloud computing,Advanced,9,Udemy,Slow,1,IT,https://example.com/course/141
+Microprocessor Systems,Intermediate,1,Udemy,Moderate,3,IT,https://example.com/course/142
+Data science,Beginner,7,Unacademy,Moderate,2,IT,https://example.com/course/143
+Software engineering,Intermediate,2,edX,Fast,2,IT,https://example.com/course/144
+DSA,Beginner,11,Udemy,Fast,3,IT,https://example.com/course/145
+DSA,Intermediate,12,Udemy,Fast,4,IT,https://example.com/course/146
+Cloud computing,Advanced,6,Coursera,Moderate,3,IT,https://example.com/course/147
+Software engineering,Advanced,2,edX,Moderate,4,IT,https://example.com/course/148
+Data science,Beginner,2,Coursera,Moderate,1,IT,https://example.com/course/149
+Cloud computing,Beginner,1,edX,Moderate,1,IT,https://example.com/course/150
+Software engineering,Advanced,11,edX,Fast,3,IT,https://example.com/course/151
+Computer networks,Intermediate,1,Unacademy,Slow,5,IT,https://example.com/course/152
+Microprocessor Systems,Intermediate,10,Unacademy,Moderate,3,IT,https://example.com/course/153
+DSA,Beginner,4,Coursera,Moderate,3,IT,https://example.com/course/154
+Data science,Advanced,5,Unacademy,Moderate,4,IT,https://example.com/course/155
+Cloud computing,Beginner,7,edX,Slow,2,IT,https://example.com/course/156
+Microprocessor Systems,Intermediate,3,Udemy,Moderate,1,IT,https://example.com/course/157
+Computer networks,Beginner,8,Pluralsight,Fast,2,IT,https://example.com/course/158
+Data science,Advanced,7,Unacademy,Slow,5,IT,https://example.com/course/159
+Data science,Intermediate,8,Pluralsight,Slow,2,IT,https://example.com/course/160
+Software engineering,Beginner,8,Coursera,Moderate,3,IT,https://example.com/course/161
+Cloud computing,Advanced,6,Udemy,Slow,5,IT,https://example.com/course/162
+Microprocessor Systems,Advanced,4,Pluralsight,Moderate,4,IT,https://example.com/course/163
+Software engineering,Advanced,7,Udemy,Fast,1,IT,https://example.com/course/164
+Software engineering,Intermediate,5,Unacademy,Slow,5,IT,https://example.com/course/165
+Cloud computing,Intermediate,1,Coursera,Slow,3,IT,https://example.com/course/166
+DSA,Beginner,4,Coursera,Slow,3,IT,https://example.com/course/167
+DSA,Advanced,1,Pluralsight,Slow,3,IT,https://example.com/course/168
+Microprocessor Systems,Advanced,12,Unacademy,Moderate,2,IT,https://example.com/course/169
+Computer networks,Intermediate,5,Unacademy,Fast,5,IT,https://example.com/course/170
+Data science,Beginner,12,Pluralsight,Fast,2,IT,https://example.com/course/171
+Computer networks,Beginner,8,Coursera,Fast,4,IT,https://example.com/course/172
+Data science,Beginner,1,Coursera,Moderate,2,IT,https://example.com/course/173
+DSA,Advanced,6,Udemy,Fast,2,IT,https://example.com/course/174
+Software engineering,Intermediate,5,Udemy,Fast,5,IT,https://example.com/course/175
+Software engineering,Beginner,1,Coursera,Slow,2,IT,https://example.com/course/176
+Software engineering,Beginner,4,Coursera,Moderate,1,IT,https://example.com/course/177
+Computer networks,Beginner,2,Pluralsight,Moderate,5,IT,https://example.com/course/178
+Cloud computing,Intermediate,2,Coursera,Fast,1,IT,https://example.com/course/179
+Software engineering,Advanced,3,Unacademy,Slow,5,IT,https://example.com/course/180
+Cloud computing,Intermediate,11,Pluralsight,Fast,1,IT,https://example.com/course/181
+Cloud computing,Beginner,8,Udemy,Moderate,2,IT,https://example.com/course/182
+Computer networks,Advanced,8,Coursera,Fast,1,IT,https://example.com/course/183
+DSA,Intermediate,9,Udemy,Slow,1,IT,https://example.com/course/184
+Data science,Beginner,7,Unacademy,Moderate,5,IT,https://example.com/course/185
+Software engineering,Intermediate,8,Unacademy,Fast,4,IT,https://example.com/course/186
+Cloud computing,Beginner,12,Udemy,Moderate,1,IT,https://example.com/course/187
+Computer networks,Advanced,8,Pluralsight,Fast,1,IT,https://example.com/course/188
+DSA,Advanced,8,edX,Fast,2,IT,https://example.com/course/189
+Microprocessor Systems,Intermediate,12,Udemy,Fast,1,IT,https://example.com/course/190
+Computer networks,Beginner,11,Coursera,Slow,4,IT,https://example.com/course/191
+Software engineering,Advanced,3,Coursera,Fast,2,IT,https://example.com/course/192
+Microprocessor Systems,Intermediate,5,edX,Moderate,3,IT,https://example.com/course/193
+Cloud computing,Beginner,9,Unacademy,Fast,5,IT,https://example.com/course/194
+Microprocessor Systems,Advanced,3,Pluralsight,Moderate,2,IT,https://example.com/course/195
+Data science,Beginner,8,edX,Slow,1,IT,https://example.com/course/196
+Data science,Advanced,5,Pluralsight,Slow,3,IT,https://example.com/course/197
+Software engineering,Intermediate,1,Pluralsight,Slow,5,IT,https://example.com/course/198
+DSA,Advanced,6,Coursera,Moderate,2,IT,https://example.com/course/199

@@ -1,0 +1,88 @@
+{
+    "intents": [
+        {
+            "tag": "Greet",
+            "patterns": ["Hello", "Hi", "Hey"],
+            "responses": ["Hello, Welcome to our online course platform! \n Hi {name}, which subject are you interested in?"]
+        },
+        {
+            "tag": "Name",
+            "patterns": ["ashish"],
+            "responses": ["Hi ashish, which subject are you interested in?"]
+        },
+        {
+            "tag": "Interest",
+            "patterns": ["list", "available", "course details"],
+            "responses": ["Choose a specific area:\n1. Computer Science (CS)\n2. Information Technology (IT)\n3. Artificial Intelligence & Data Science (AI&DS)"]
+        },
+        {
+            "tag": "CS",
+            "patterns": ["CS", "I choose CS", "Computer Science"],
+            "responses": [
+                "Fantastic choice! Computer Science is a vast field with exciting opportunities.",
+                "CS is the backbone of modern technology. You'll delve into algorithms, programming, and much more."
+            ]
+        },
+        {
+            "tag": "IT",
+            "patterns": ["IT", "I choose IT", "Information Technology"],
+            "responses": [
+                "Indeed! Information Technology is constantly evolving, and it's a dynamic field.",
+                "IT professionals play a crucial role in managing and optimizing technology for businesses."
+            ]
+        },
+        {
+            "tag": "AI&DS",
+            "patterns": ["AI&DS", "Artificial Intelligence and Data Science", "I choose AI&DS"],
+            "responses": [
+                "Excellent! Artificial Intelligence & Data Science is an upcoming and promising field.",
+                "AI&DS explores the world of machine learning, data analysis, and the future of intelligent systems."
+            ]
+        },
+        {
+            "tag": "FurtherInfo",
+            "patterns": ["Tell me more", "More information", "What will I learn"],
+            "responses": [
+                "Certainly! In the selected course area, you'll learn about cutting-edge technologies, industry trends, and hands-on skills.",
+                "Our courses are designed to prepare you for real-world challenges. You can explore specific courses and their details on our website."
+            ]
+        },
+        {
+            "tag": "CourseDetails",
+            "patterns": ["Course details", "Tell me about specific courses", "Explore courses"],
+            "responses": [
+                "You can explore detailed information about specific courses on our website.",
+                "Visit our course catalog to learn more about the curriculum, instructors, and any prerequisites for each course."
+            ]
+        },
+        {
+            "tag": "Enrollment",
+            "patterns": ["How can I enroll?", "Enrollment process", "Register for a course"],
+            "responses": [
+                "To enroll in a course, visit our website and follow the instructions on the course page.",
+                "If you have any specific questions or need assistance with the enrollment process, feel free to ask."
+            ]
+        },
+        {
+            "tag": "Assistance",
+            "patterns": ["I need help", "Assistance required", "Can you assist me?"],
+            "responses": [
+                "Of course! I'm here to help. Please let me know what information or assistance you're looking for.",
+                "If you have any questions or concerns, feel free to ask, and I'll do my best to assist you."
+            ]
+        },
+        {
+            "tag": "Feedback",
+            "patterns": ["How's the course?", "Feedback", "Testimonials"],
+            "responses": [
+                "Our learners have found the courses valuable! You can check testimonials on our website.",
+                "We appreciate your feedback too. Feel free to share your thoughts on your learning experience."
+            ]
+        },
+        {
+            "tag": "Goodbye",
+            "patterns": ["Thank you", "Goodbye", "See you later"],
+            "responses": ["You're welcome! If you have more questions or need assistance, feel free to ask. Have a great day!"]
+        }
+    ]
+}
