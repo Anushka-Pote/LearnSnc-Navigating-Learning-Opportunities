@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CS Exam</title>
+</head>
+<body>
+    <form action="/" method="post">
+        {% for q in questions %}
+        <div>
+            <p>{{ q['question'] }}</p>
+            {% for option in q['options'] %}
+            <label>
+                <input type="radio" name="q{{ loop.index0 }}" value="{{ loop.index0 }}"> {{ option }}
+            </label><br>
+            {% endfor %}
+        </div>
+        {% endfor %}
+        <button type="submit">Submit</button>
+    </form>
+    
+    {% if show_result %}
+    <h2>Your Score: {{ score }} out of {{ num_questions }}</h2>
+    {% endif %}
+</body>
+</html>
